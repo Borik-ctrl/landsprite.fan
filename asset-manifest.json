@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/landsprite.fan.github.io/static/css/main.ceb2c364.css",
-    "main.js": "/landsprite.fan.github.io/static/js/main.7f3955a4.js",
+    "main.js": "/landsprite.fan.github.io/static/js/main.dee69a27.js",
     "index.html": "/landsprite.fan.github.io/index.html",
     "main.ceb2c364.css.map": "/landsprite.fan.github.io/static/css/main.ceb2c364.css.map",
-    "main.7f3955a4.js.map": "/landsprite.fan.github.io/static/js/main.7f3955a4.js.map"
+    "main.dee69a27.js.map": "/landsprite.fan.github.io/static/js/main.dee69a27.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb2c364.css",
-    "static/js/main.7f3955a4.js"
+    "static/js/main.dee69a27.js"
   ]
 }
