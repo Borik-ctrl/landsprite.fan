@@ -1,0 +1,119 @@
+/* compendium.css */
+.compendium-container {
+  font-family: 'Arial', sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.compendium-title {
+  text-align: center;
+  color: #333;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.category-selection {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.category-selection label {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.category-selection label:hover {
+  background-color: #e0e0e0;
+}
+
+.category-selection input[type="radio"] {
+  display: none;
+}
+
+.category-selection input[type="radio"]:checked + label {
+  background-color: #007BFF;
+  color: white;
+}
+
+.toggle-view-button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.compendium-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.compendium-list.image-only-view .compendium-item {
+  display: inline-block;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+}
+
+.compendium-item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.compendium-item:hover {
+  transform: scale(1.05);
+}
+
+.compendium-image {
+  /* width: 100%; */
+  /* height: auto; */
+  border-radius: 4px;
+}
+
+.image-elite-border{
+  border: 2px solid rgb(255, 0, 0);
+}
+
+.compendium-content {
+  padding: 10px;
+}
+
+.compendium-term {
+  font-size: 1.2em;
+  color: #007BFF;
+}
+
+.compendium-term-small {
+  font-size: 0.9em;
+  color: #007BFF;
+}
+
+.compendium-description {
+  color: #555;
+}
+
+.compendium-meta {
+  font-size: 0.9em;
+  color: #777;
+}
