@@ -92,12 +92,6 @@ console.log(compendiumData);
         {imageOnlyView ? 'Show Details' : 'Show Images Only'}
       </button>
 
-<div className="compendium-container">
-  <p>LOLOL</p>
-  <h1 className="compendium-title">Compendium</h1>  
-<img src="/assets/others/gold.png" alt="Gold" />
-</div>
-
       <ul className={`compendium-list ${imageOnlyView ? 'image-only-view' : ''}`}>
         {filteredData.map((item, index) => (
           <li key={index} className={`compendium-item ${item.isElite ? 'image-elite-border' : ''}`} title={
