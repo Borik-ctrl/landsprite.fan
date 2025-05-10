@@ -11,9 +11,6 @@ const Compendium = () => {
   const [categoryFilter, setCategoryFilter] = useState('All');
   const [imageOnlyView, setImageOnlyView] = useState(true);
 
-console.log(compendiumData);
-
-
   // Filter the compendium data based on the filter input and category
   const filteredData = compendiumData.filter(item =>
     item.term.toLowerCase().includes(filter.toLowerCase()) &&

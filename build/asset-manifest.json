@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/landsprite.fan.github.io/static/css/main.ceb2c364.css",
+    "main.js": "/landsprite.fan.github.io/static/js/main.77d77dc6.js",
+    "index.html": "/landsprite.fan.github.io/index.html",
+    "main.ceb2c364.css.map": "/landsprite.fan.github.io/static/css/main.ceb2c364.css.map",
+    "main.77d77dc6.js.map": "/landsprite.fan.github.io/static/js/main.77d77dc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb2c364.css",
+    "static/js/main.77d77dc6.js"
+  ]
+}
