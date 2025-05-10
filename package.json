@@ -29,7 +29,7 @@
     "globals": "^16.0.0",
     "vite": "^6.3.5"
   },
-  "homepage": "https://github.com/Borik-ctrl/landsprite.fan.github.io",
+  "homepage": "https://borik-ctrl.github.io/landsprite.fan.github.io/",
   "browserslist": {
     "production": [
       ">0.2%",
