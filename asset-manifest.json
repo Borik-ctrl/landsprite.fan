@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Borik-ctrl/landsprite.fan.github.io/static/css/main.ceb2c364.css",
-    "main.js": "/Borik-ctrl/landsprite.fan.github.io/static/js/main.7f3955a4.js",
-    "index.html": "/Borik-ctrl/landsprite.fan.github.io/index.html",
-    "main.ceb2c364.css.map": "/Borik-ctrl/landsprite.fan.github.io/static/css/main.ceb2c364.css.map",
-    "main.7f3955a4.js.map": "/Borik-ctrl/landsprite.fan.github.io/static/js/main.7f3955a4.js.map"
+    "main.css": "/landsprite.fan.github.io/static/css/main.ceb2c364.css",
+    "main.js": "/landsprite.fan.github.io/static/js/main.7f3955a4.js",
+    "index.html": "/landsprite.fan.github.io/index.html",
+    "main.ceb2c364.css.map": "/landsprite.fan.github.io/static/css/main.ceb2c364.css.map",
+    "main.7f3955a4.js.map": "/landsprite.fan.github.io/static/js/main.7f3955a4.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb2c364.css",
