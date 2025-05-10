@@ -1,12 +1,18 @@
 // compendium.js
 import React, { useState } from 'react';
 import './compendium.css'; // Import the CSS file for styling
-import compendiumData from './data/compendiumData'; // Import the compendium data
+import compendiumData from './data/compendiumData.js'; // Import the compendium data
+
+
+
 
 const Compendium = () => {
   const [filter, setFilter] = useState('');
   const [categoryFilter, setCategoryFilter] = useState('All');
   const [imageOnlyView, setImageOnlyView] = useState(true);
+
+console.log(compendiumData);
+
 
   // Filter the compendium data based on the filter input and category
   const filteredData = compendiumData.filter(item =>
@@ -85,6 +91,13 @@ const Compendium = () => {
         className="toggle-view-button">
         {imageOnlyView ? 'Show Details' : 'Show Images Only'}
       </button>
+
+<div className="compendium-container">
+  <p>LOLOL</p>
+  <h1 className="compendium-title">Compendium</h1>  
+<img src="/assets/others/gold.png" alt="Gold" />
+</div>
+
       <ul className={`compendium-list ${imageOnlyView ? 'image-only-view' : ''}`}>
         {filteredData.map((item, index) => (
           <li key={index} className={`compendium-item ${item.isElite ? 'image-elite-border' : ''}`} title={
