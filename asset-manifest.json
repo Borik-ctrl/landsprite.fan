@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/landsprite.fan/static/css/main.ff12ab29.css",
-    "main.js": "/landsprite.fan/static/js/main.c3428493.js",
+    "main.js": "/landsprite.fan/static/js/main.b3494932.js",
     "index.html": "/landsprite.fan/index.html",
     "main.ff12ab29.css.map": "/landsprite.fan/static/css/main.ff12ab29.css.map",
-    "main.c3428493.js.map": "/landsprite.fan/static/js/main.c3428493.js.map"
+    "main.b3494932.js.map": "/landsprite.fan/static/js/main.b3494932.js.map"
   },
   "entrypoints": [
     "static/css/main.ff12ab29.css",
-    "static/js/main.c3428493.js"
+    "static/js/main.b3494932.js"
   ]
 }
