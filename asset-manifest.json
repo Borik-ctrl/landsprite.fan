@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/landsprite.fan/static/css/main.ff12ab29.css",
-    "main.js": "/landsprite.fan/static/js/main.b3494932.js",
+    "main.css": "/landsprite.fan/static/css/main.603a4323.css",
+    "main.js": "/landsprite.fan/static/js/main.eada1195.js",
+    "static/media/hellhound.jpg": "/landsprite.fan/static/media/hellhound.34c34d49b147a1abeb71.jpg",
     "index.html": "/landsprite.fan/index.html",
-    "main.ff12ab29.css.map": "/landsprite.fan/static/css/main.ff12ab29.css.map",
-    "main.b3494932.js.map": "/landsprite.fan/static/js/main.b3494932.js.map"
+    "main.603a4323.css.map": "/landsprite.fan/static/css/main.603a4323.css.map",
+    "main.eada1195.js.map": "/landsprite.fan/static/js/main.eada1195.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff12ab29.css",
-    "static/js/main.b3494932.js"
+    "static/css/main.603a4323.css",
+    "static/js/main.eada1195.js"
   ]
 }
